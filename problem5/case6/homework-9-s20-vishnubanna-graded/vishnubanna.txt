@@ -1,0 +1,21 @@
+Test case 1 passed
+Test case 2 passed
+Error occurred, test case 3 failed
+Error occurred, test case 4 failed
+Test case 5 passed
+Test case 6 passed
+Test case 7 failed
+Test case 8 passed
+Test case 9 passed
+Test case 10 failed
+Test case 11 failed
+Test case 12 passed
+Test case 13 passed
+Test case 14 passed
+Test case 15 passed
+Test case 16 passed
+Test case 17 passed
+Test case 18 passed
+Days late: 0
+Score: 72.0
+Out of: 100
